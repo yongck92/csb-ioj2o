@@ -1,0 +1,48 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: rgb(18, 221, 177);
+  font-size: 72px;
+}
+
+h2 {
+  color: blue;
+  font-size: 36px;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  background-color: #ddd;
+  box-flex: auto;
+  padding: 10px;
+}
+
+p {
+  background-color: #ddd;
+  box-flex: auto;
+  padding: 10px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
